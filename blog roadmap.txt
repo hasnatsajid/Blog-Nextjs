@@ -1,0 +1,35 @@
+navbar items: 
+* categories
+* login/signup 
+* 
+
+Pages: 
+* categories page
+* category page
+* blog post page
+* homepage
+* search results page
+
+Modals:
+* login/signup
+
+scrud operation on blog (API based)
+
+
+$ Database fields:
+* id
+* title
+* date
+* author
+* image
+* description
+* category
+* tags
+* author profile
+* slug
+
+$ API:
+* get categories
+* create category
+* create blog
+* get blogs

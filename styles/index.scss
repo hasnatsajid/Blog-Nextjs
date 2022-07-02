@@ -1,0 +1,18 @@
+@import './variables.scss';
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  color: $dark-color;
+  font-family: $font-text-reg;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  transition: all 0.3s ease;
+}
